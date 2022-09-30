@@ -14,7 +14,7 @@ public class Exercicio6 {
 
             areaCirculo = (float) (pi * (Math.pow(raioCirculo, 2)));
         } catch (Exception ex) {
-            System.out.println("Erro ao pegar raioCirculo e/ou areaCirculo no Exercicio5:\n" + ex);
+            System.out.println("Erro ao pegar raioCirculo e/ou areaCirculo no Exercicio6:\n" + ex);
         }
         System.out.println("A area do circulo eh:\n" + areaCirculo + "m²");
     }
